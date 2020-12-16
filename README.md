@@ -13,4 +13,3 @@ a)  (% Growth over previous year)
 b)  GSDP - CURRENT PRICES (' in Crore)
 
 c) Average Growth Rate
-
