@@ -1,5 +1,7 @@
 # GDP-Analysis (2013-2016)
 
+![GDP Image](https://user-images.githubusercontent.com/59309459/102491101-bcfe0180-4095-11eb-8137-08723b542b06.png)
+
 Analysis of GDP from 2013 to 2016 of all the states in India
 
 This analysis was done using python in two parts:
