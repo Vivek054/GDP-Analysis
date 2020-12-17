@@ -4,29 +4,35 @@ Analysis of GDP from 2013 to 2016 of all the states in India
 
 This analysis was done using python in two parts:
 
-Part 1:
+# Part 1:
 
 In this part i mainly looked into 3 aspects:
 
-a)  (% Growth over previous year)	
+A)  (% Growth over previous year)	
 
-b)  GSDP - CURRENT PRICES (' in Crore)
+B)  GSDP - CURRENT PRICES (' in Crore)
 
-c) Average Growth Rate
+C) Average Growth Rate
 
-a) (% Growth over previous year):   It mainly explains about the growth of states GDP from year to year.
+# A) (% Growth over previous year):  
+
+It mainly explains about the growth of states GDP from year to year.
 
 The Plot representing the Growth Rate:
 
 ![Capture](https://user-images.githubusercontent.com/59309459/102484351-25e07c00-408c-11eb-8796-710d69d76e46.PNG)
 
-b)  GSDP - CURRENT PRICES (' in Crore):   It represents current price in Crore Value
+# B)  GSDP - CURRENT PRICES (' in Crore): 
+
+It represents current price in Crore Value
 
 The below plot represents the current prices in crore:
 
 ![Capture 1](https://user-images.githubusercontent.com/59309459/102484602-8374c880-408c-11eb-8c0b-b045bec73f44.PNG)
 
-c) Average Growth Rate:   It mainly explains the growth rate of GDP from 2013 to 2016.
+# C) Average Growth Rate:
+
+It mainly explains the growth rate of GDP from 2013 to 2016.
 
 The Plot representing the Growth Rate:
 
@@ -37,7 +43,7 @@ The below plot represents the All India GDP:
 ![Capture 3](https://user-images.githubusercontent.com/59309459/102485030-13b30d80-408d-11eb-9911-08d48a79a2a9.PNG)
 
                                 
-Part 2:
+# Part 2:
 
 It mainly consists of seperate dataset for each state with the following aspects:
        'Agriculture, forestry and fishing', 'Crops', 'Livestock',
@@ -58,7 +64,7 @@ With all the aspects Per Capita GDP for each state is represented below:
 
 ![Capture 4](https://user-images.githubusercontent.com/59309459/102488085-86be8300-4091-11eb-9733-835c0f53ee41.PNG)
 
-Per Capita GDP can be differentiated in three types:
+# Per Capita GDP can be differentiated in three types:
 
 Primary_GDP_Percent
 Secondary_GDP_Percent
@@ -73,9 +79,9 @@ Per Capita GDP based on the Population below:
 ![Capture 6](https://user-images.githubusercontent.com/59309459/102488572-40b5ef00-4092-11eb-977c-cc6ecb1d87a2.PNG)
 
 
-According to the GDP all the States are categorized into 4 categories:
+# According to the GDP all the States are categorized into 4 categories:
 
-Category 1:   'Goa', 'Sikkim', 'Kerala', 'Haryana'
+# Category 1:   'Goa', 'Sikkim', 'Kerala', 'Haryana'
 
 There are only 4 states in this category, all of which are small (area-wise) and have good industrial base , agricultural, trade and real estate.
 
@@ -84,17 +90,23 @@ Manufacturing should be further promoted
 
 ![Capture 7](https://user-images.githubusercontent.com/59309459/102489151-17499300-4093-11eb-8a8c-0080b787dac5.PNG)
 
-Category 2:   'Arunachal_Pradesh', 'Punjab','Telangana', 'Gujarat', 'Karnataka','Maharashtra', 'Uttarakhand'
+# Category 2:   'Arunachal_Pradesh', 'Punjab','Telangana', 'Gujarat', 'Karnataka','Maharashtra', 'Uttarakhand'
 
 These states have relatively good per capita gdp and are drivcen by around equal percentage by industries and agriclture. These implies that these states have pool of talent to drive industries and agriculture. Because of the talent, other industries can take their advantage and set up good industries.
 States like karnataka, tamil nadu , gujarat and maharashtra, which has huge coastal area can setup ports. Coastal area can help in harness clean energy and fisheries can be increased. Similarly, tourism industry should also be encouraged.
 
 ![Capture 8](https://user-images.githubusercontent.com/59309459/102489376-6394d300-4093-11eb-97ce-9f16a35eec35.PNG)
 
-Category 3:   'Madhya_Pradesh', 'Odisha', 'Meghalaya', 'Tripura', 'Rajasthan','Chhattisgarh', 'Nagaland', 'Andhra_Pradesh'
+# Category 3:   'Madhya_Pradesh', 'Odisha', 'Meghalaya', 'Tripura', 'Rajasthan','Chhattisgarh', 'Nagaland', 'Andhra_Pradesh'
 
 ![Capture 9](https://user-images.githubusercontent.com/59309459/102489733-e74ebf80-4093-11eb-91a7-7310686ad0ee.PNG)
 
-Category 4:   'Bihar', 'Uttar_Pradesh', 'Manipur', 'Assam', 'Jharkhand'
+# Category 4:   'Bihar', 'Uttar_Pradesh', 'Manipur', 'Assam', 'Jharkhand'
 
 ![Capture 10](https://user-images.githubusercontent.com/59309459/102489869-16653100-4094-11eb-9911-a38f5019c022.PNG)
+
+# Note:
+
+For Part 1 you can find the dataset in data folder named as 'Gross Domestic Product (GDP) at Current Price'
+
+For Part 2 you can find the datasets in the folder named GSVA in Data folder.
