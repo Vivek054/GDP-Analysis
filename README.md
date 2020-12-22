@@ -22,7 +22,7 @@ It mainly explains about the growth of states GDP from year to year.
 
 The Plot representing the Growth Rate:
 
-![Capture](https://user-images.githubusercontent.com/59309459/102484351-25e07c00-408c-11eb-8796-710d69d76e46.PNG)
+![Capture](https://user-images.githubusercontent.com/59309459/102873934-c4435780-4467-11eb-9037-e200d529649f.PNG)
 
 # B)  GSDP - CURRENT PRICES (' in Crore): 
 
@@ -30,7 +30,7 @@ It represents current price in Crore Value
 
 The below plot represents the current prices in crore:
 
-![Capture 1](https://user-images.githubusercontent.com/59309459/102484602-8374c880-408c-11eb-8c0b-b045bec73f44.PNG)
+![Capture](https://user-images.githubusercontent.com/59309459/102874036-edfc7e80-4467-11eb-8907-85c25f0d5a8f.PNG)
 
 # C) Average Growth Rate:
 
@@ -38,7 +38,7 @@ It mainly explains the growth rate of GDP from 2013 to 2016.
 
 The Plot representing the Growth Rate:
 
-![Capture 2](https://user-images.githubusercontent.com/59309459/102484780-c0d95600-408c-11eb-94ad-595eb8bfbb81.PNG)
+![Capture](https://user-images.githubusercontent.com/59309459/102874186-2439fe00-4468-11eb-8df8-9a71adbb5b8e.PNG)
                                 
 # Part 2:
 
